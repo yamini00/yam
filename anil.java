@@ -27,7 +27,7 @@ import java.io.*;
 		label4.setText(" Branch :- ");
 		label5.setText(" Phone No. :- ");
 		setTitle("Welcome to Student Managment System ");
-		setSize(350,300);
+		setSize(350,300,500);
 		setLocation(300,280);
 		panel.setLayout (null); 
 		label1.setBounds(90,30,300,20);
