@@ -6,7 +6,7 @@ import java.io.*;
  class NewRec extends JFrame {
 	public static void main(String[] args) {
 		NewRec frameTabel = new NewRec();
-	}
+	
 	JPanel panel = new JPanel();
 	JTextField name = new JTextField(50);
 	JTextField rollno = new JTextField(10);
